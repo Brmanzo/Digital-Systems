@@ -1,0 +1,595 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# Loading project Lab3Part4Final
+# Compile of Lab3Part4Final_tb.v was successful.
+# Compile of fa.v was successful.
+# Compile of add3.v was successful.
+# Compile of add3_ref.v was successful.
+# Compile of add3_error.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui lab3part4files.Lab3Part4Final_tb
+# vsim -gui lab3part4files.Lab3Part4Final_tb 
+# Start time: 10:55:58 on Apr 27,2022
+# Loading lab3part4files.Lab3Part4Final_tb
+# Loading lab3part4files.add3
+# Loading lab3part4files.fa
+# Loading lab3part4files.add3_error
+run -all
+# carry in = 0, in1 = 0, in2 = 0, sum =  0, sum_ref =  0, pass
+# carry in = 0, in1 = 0, in2 = 1, sum =  1, sum_ref =  1, pass
+# carry in = 0, in1 = 0, in2 = 2, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 0, in2 = 3, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 0, in2 = 4, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 0, in2 = 5, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 0, in2 = 6, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 0, in2 = 7, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 1, in2 = 0, sum =  1, sum_ref =  1, pass
+# carry in = 0, in1 = 1, in2 = 1, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 1, in2 = 2, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 1, in2 = 3, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 1, in2 = 4, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 1, in2 = 5, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 1, in2 = 6, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 1, in2 = 7, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 2, in2 = 0, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 2, in2 = 1, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 2, in2 = 2, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 2, in2 = 3, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 2, in2 = 4, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 2, in2 = 5, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 2, in2 = 6, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 2, in2 = 7, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 3, in2 = 0, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 3, in2 = 1, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 3, in2 = 2, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 3, in2 = 3, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 3, in2 = 4, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 3, in2 = 5, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 3, in2 = 6, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 3, in2 = 7, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 4, in2 = 0, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 4, in2 = 1, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 4, in2 = 2, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 4, in2 = 3, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 4, in2 = 4, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 4, in2 = 5, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 4, in2 = 6, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 4, in2 = 7, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 5, in2 = 0, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 5, in2 = 1, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 5, in2 = 2, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 5, in2 = 3, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 5, in2 = 4, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 5, in2 = 5, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 5, in2 = 6, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 5, in2 = 7, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 6, in2 = 0, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 6, in2 = 1, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 6, in2 = 2, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 6, in2 = 3, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 6, in2 = 4, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 6, in2 = 5, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 6, in2 = 6, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 6, in2 = 7, sum = 13, sum_ref = 13, pass
+# carry in = 0, in1 = 7, in2 = 0, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 7, in2 = 1, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 7, in2 = 2, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 7, in2 = 3, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 7, in2 = 4, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 7, in2 = 5, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 7, in2 = 6, sum = 13, sum_ref = 13, pass
+# carry in = 0, in1 = 7, in2 = 7, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 0, in2 = 0, sum =  1, sum_ref =  1, pass
+# carry in = 1, in1 = 0, in2 = 1, sum =  2, sum_ref =  2, pass
+# carry in = 1, in1 = 0, in2 = 2, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 0, in2 = 3, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 0, in2 = 4, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 0, in2 = 5, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 0, in2 = 6, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 0, in2 = 7, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 1, in2 = 0, sum =  2, sum_ref =  2, pass
+# carry in = 1, in1 = 1, in2 = 1, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 1, in2 = 2, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 1, in2 = 3, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 1, in2 = 4, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 1, in2 = 5, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 1, in2 = 6, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 1, in2 = 7, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 2, in2 = 0, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 2, in2 = 1, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 2, in2 = 2, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 2, in2 = 3, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 2, in2 = 4, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 2, in2 = 5, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 2, in2 = 6, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 2, in2 = 7, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 3, in2 = 0, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 3, in2 = 1, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 3, in2 = 2, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 3, in2 = 3, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 3, in2 = 4, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 3, in2 = 5, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 3, in2 = 6, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 3, in2 = 7, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 4, in2 = 0, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 4, in2 = 1, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 4, in2 = 2, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 4, in2 = 3, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 4, in2 = 4, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 4, in2 = 5, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 4, in2 = 6, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 4, in2 = 7, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 5, in2 = 0, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 5, in2 = 1, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 5, in2 = 2, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 5, in2 = 3, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 5, in2 = 4, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 5, in2 = 5, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 5, in2 = 6, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 5, in2 = 7, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 6, in2 = 0, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 6, in2 = 1, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 6, in2 = 2, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 6, in2 = 3, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 6, in2 = 4, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 6, in2 = 5, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 6, in2 = 6, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 6, in2 = 7, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 7, in2 = 0, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 7, in2 = 1, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 7, in2 = 2, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 7, in2 = 3, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 7, in2 = 4, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 7, in2 = 5, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 7, in2 = 6, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 7, in2 = 7, sum = 15, sum_ref = 15, pass
+# Compile of Lab3Part4Final_tb.v was successful.
+# Compile of fa.v was successful.
+# Compile of add3.v was successful.
+# Compile of add3_ref.v was successful.
+# Compile of add3_error.v failed with 2 errors.
+# 5 compiles, 1 failed with 2 errors.
+# Compile of Lab3Part4Final_tb.v was successful.
+# Compile of fa.v was successful.
+# Compile of add3.v was successful.
+# Compile of add3_ref.v was successful.
+# Compile of add3_error.v failed with 2 errors.
+# 5 compiles, 1 failed with 2 errors.
+# Compile of Lab3Part4Final_tb.v was successful.
+# Compile of fa.v was successful.
+# Compile of add3.v was successful.
+# Compile of add3_ref.v was successful.
+# Compile of add3_error.v was successful.
+# 5 compiles, 0 failed with no errors.
+# Load canceled
+vsim -gui lab3part4files.Lab3Part4Final_tb
+# End time: 13:16:49 on Apr 27,2022, Elapsed time: 2:20:51
+# Errors: 1, Warnings: 0
+# vsim -gui lab3part4files.Lab3Part4Final_tb 
+# Start time: 13:16:50 on Apr 27,2022
+# Loading lab3part4files.Lab3Part4Final_tb
+# Loading lab3part4files.add3
+# Loading lab3part4files.fa
+# Loading lab3part4files.add3_error
+run -all
+# carry in = 0, in1 = 0, in2 = 0, sum =  0, sum_ref =  0, pass
+# carry in = 0, in1 = 0, in2 = 1, sum =  1, sum_ref =  1, pass
+# carry in = 0, in1 = 0, in2 = 2, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 0, in2 = 3, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 0, in2 = 4, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 0, in2 = 5, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 0, in2 = 6, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 0, in2 = 7, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 1, in2 = 0, sum =  1, sum_ref =  1, pass
+# carry in = 0, in1 = 1, in2 = 1, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 1, in2 = 2, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 1, in2 = 3, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 1, in2 = 4, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 1, in2 = 5, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 1, in2 = 6, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 1, in2 = 7, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 2, in2 = 0, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 2, in2 = 1, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 2, in2 = 2, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 2, in2 = 3, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 2, in2 = 4, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 2, in2 = 5, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 2, in2 = 6, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 2, in2 = 7, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 3, in2 = 0, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 3, in2 = 1, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 3, in2 = 2, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 3, in2 = 3, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 3, in2 = 4, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 3, in2 = 5, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 3, in2 = 6, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 3, in2 = 7, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 4, in2 = 0, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 4, in2 = 1, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 4, in2 = 2, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 4, in2 = 3, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 4, in2 = 4, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 4, in2 = 5, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 4, in2 = 6, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 4, in2 = 7, sum = 11, sum_ref = 12, fail
+# carry in = 0, in1 = 5, in2 = 0, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 5, in2 = 1, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 5, in2 = 2, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 5, in2 = 3, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 5, in2 = 4, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 5, in2 = 5, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 5, in2 = 6, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 5, in2 = 7, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 6, in2 = 0, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 6, in2 = 1, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 6, in2 = 2, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 6, in2 = 3, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 6, in2 = 4, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 6, in2 = 5, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 6, in2 = 6, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 6, in2 = 7, sum = 13, sum_ref = 13, pass
+# carry in = 0, in1 = 7, in2 = 0, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 7, in2 = 1, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 7, in2 = 2, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 7, in2 = 3, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 7, in2 = 4, sum = 11, sum_ref = 12, fail
+# carry in = 0, in1 = 7, in2 = 5, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 7, in2 = 6, sum = 13, sum_ref = 13, pass
+# carry in = 0, in1 = 7, in2 = 7, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 0, in2 = 0, sum =  1, sum_ref =  1, pass
+# carry in = 1, in1 = 0, in2 = 1, sum =  2, sum_ref =  2, pass
+# carry in = 1, in1 = 0, in2 = 2, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 0, in2 = 3, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 0, in2 = 4, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 0, in2 = 5, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 0, in2 = 6, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 0, in2 = 7, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 1, in2 = 0, sum =  2, sum_ref =  2, pass
+# carry in = 1, in1 = 1, in2 = 1, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 1, in2 = 2, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 1, in2 = 3, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 1, in2 = 4, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 1, in2 = 5, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 1, in2 = 6, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 1, in2 = 7, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 2, in2 = 0, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 2, in2 = 1, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 2, in2 = 2, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 2, in2 = 3, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 2, in2 = 4, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 2, in2 = 5, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 2, in2 = 6, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 2, in2 = 7, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 3, in2 = 0, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 3, in2 = 1, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 3, in2 = 2, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 3, in2 = 3, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 3, in2 = 4, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 3, in2 = 5, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 3, in2 = 6, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 3, in2 = 7, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 4, in2 = 0, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 4, in2 = 1, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 4, in2 = 2, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 4, in2 = 3, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 4, in2 = 4, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 4, in2 = 5, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 4, in2 = 6, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 4, in2 = 7, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 5, in2 = 0, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 5, in2 = 1, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 5, in2 = 2, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 5, in2 = 3, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 5, in2 = 4, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 5, in2 = 5, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 5, in2 = 6, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 5, in2 = 7, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 6, in2 = 0, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 6, in2 = 1, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 6, in2 = 2, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 6, in2 = 3, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 6, in2 = 4, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 6, in2 = 5, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 6, in2 = 6, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 6, in2 = 7, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 7, in2 = 0, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 7, in2 = 1, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 7, in2 = 2, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 7, in2 = 3, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 7, in2 = 4, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 7, in2 = 5, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 7, in2 = 6, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 7, in2 = 7, sum = 15, sum_ref = 15, pass
+# Compile of Lab3Part4Final_tb.v failed with 1 errors.
+# Compile of fa.v was successful.
+# Compile of add3.v was successful.
+# Compile of add3_ref.v was successful.
+# Compile of add3_error.v was successful.
+# 5 compiles, 1 failed with 1 error.
+# Compile of Lab3Part4Final_tb.v was successful.
+# Compile of fa.v was successful.
+# Compile of add3.v was successful.
+# Compile of add3_ref.v was successful.
+# Compile of add3_error.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui lab3part4files.Lab3Part4Final_tb
+# End time: 13:27:34 on Apr 27,2022, Elapsed time: 0:10:44
+# Errors: 0, Warnings: 0
+# vsim -gui lab3part4files.Lab3Part4Final_tb 
+# Start time: 13:27:34 on Apr 27,2022
+# Loading lab3part4files.Lab3Part4Final_tb
+# Loading lab3part4files.add3
+# Loading lab3part4files.fa
+# Loading lab3part4files.add3_ref
+run -all
+# carry in = 0, in1 = 0, in2 = 0, sum =  0, sum_ref =  0, pass
+# carry in = 0, in1 = 0, in2 = 1, sum =  1, sum_ref =  1, pass
+# carry in = 0, in1 = 0, in2 = 2, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 0, in2 = 3, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 0, in2 = 4, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 0, in2 = 5, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 0, in2 = 6, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 0, in2 = 7, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 1, in2 = 0, sum =  1, sum_ref =  1, pass
+# carry in = 0, in1 = 1, in2 = 1, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 1, in2 = 2, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 1, in2 = 3, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 1, in2 = 4, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 1, in2 = 5, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 1, in2 = 6, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 1, in2 = 7, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 2, in2 = 0, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 2, in2 = 1, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 2, in2 = 2, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 2, in2 = 3, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 2, in2 = 4, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 2, in2 = 5, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 2, in2 = 6, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 2, in2 = 7, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 3, in2 = 0, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 3, in2 = 1, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 3, in2 = 2, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 3, in2 = 3, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 3, in2 = 4, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 3, in2 = 5, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 3, in2 = 6, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 3, in2 = 7, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 4, in2 = 0, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 4, in2 = 1, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 4, in2 = 2, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 4, in2 = 3, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 4, in2 = 4, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 4, in2 = 5, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 4, in2 = 6, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 4, in2 = 7, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 5, in2 = 0, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 5, in2 = 1, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 5, in2 = 2, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 5, in2 = 3, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 5, in2 = 4, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 5, in2 = 5, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 5, in2 = 6, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 5, in2 = 7, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 6, in2 = 0, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 6, in2 = 1, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 6, in2 = 2, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 6, in2 = 3, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 6, in2 = 4, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 6, in2 = 5, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 6, in2 = 6, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 6, in2 = 7, sum = 13, sum_ref = 13, pass
+# carry in = 0, in1 = 7, in2 = 0, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 7, in2 = 1, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 7, in2 = 2, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 7, in2 = 3, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 7, in2 = 4, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 7, in2 = 5, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 7, in2 = 6, sum = 13, sum_ref = 13, pass
+# carry in = 0, in1 = 7, in2 = 7, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 0, in2 = 0, sum =  1, sum_ref =  1, pass
+# carry in = 1, in1 = 0, in2 = 1, sum =  2, sum_ref =  2, pass
+# carry in = 1, in1 = 0, in2 = 2, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 0, in2 = 3, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 0, in2 = 4, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 0, in2 = 5, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 0, in2 = 6, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 0, in2 = 7, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 1, in2 = 0, sum =  2, sum_ref =  2, pass
+# carry in = 1, in1 = 1, in2 = 1, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 1, in2 = 2, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 1, in2 = 3, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 1, in2 = 4, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 1, in2 = 5, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 1, in2 = 6, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 1, in2 = 7, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 2, in2 = 0, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 2, in2 = 1, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 2, in2 = 2, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 2, in2 = 3, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 2, in2 = 4, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 2, in2 = 5, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 2, in2 = 6, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 2, in2 = 7, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 3, in2 = 0, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 3, in2 = 1, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 3, in2 = 2, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 3, in2 = 3, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 3, in2 = 4, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 3, in2 = 5, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 3, in2 = 6, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 3, in2 = 7, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 4, in2 = 0, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 4, in2 = 1, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 4, in2 = 2, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 4, in2 = 3, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 4, in2 = 4, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 4, in2 = 5, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 4, in2 = 6, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 4, in2 = 7, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 5, in2 = 0, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 5, in2 = 1, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 5, in2 = 2, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 5, in2 = 3, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 5, in2 = 4, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 5, in2 = 5, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 5, in2 = 6, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 5, in2 = 7, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 6, in2 = 0, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 6, in2 = 1, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 6, in2 = 2, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 6, in2 = 3, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 6, in2 = 4, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 6, in2 = 5, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 6, in2 = 6, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 6, in2 = 7, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 7, in2 = 0, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 7, in2 = 1, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 7, in2 = 2, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 7, in2 = 3, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 7, in2 = 4, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 7, in2 = 5, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 7, in2 = 6, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 7, in2 = 7, sum = 15, sum_ref = 15, pass
+# Compile of Lab3Part4Final_tb.v was successful.
+# Compile of fa.v was successful.
+# Compile of add3.v was successful.
+# Compile of add3_ref.v was successful.
+# Compile of add3_error.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui lab3part4files.Lab3Part4Final_tb
+# End time: 15:04:54 on Apr 27,2022, Elapsed time: 1:37:20
+# Errors: 0, Warnings: 0
+# vsim -gui lab3part4files.Lab3Part4Final_tb 
+# Start time: 15:04:54 on Apr 27,2022
+# Loading lab3part4files.Lab3Part4Final_tb
+# Loading lab3part4files.add3_error
+# Loading lab3part4files.fa
+# Loading lab3part4files.add3_ref
+run -all
+# carry in = 0, in1 = 0, in2 = 0, sum =  0, sum_ref =  0, pass
+# carry in = 0, in1 = 0, in2 = 1, sum =  1, sum_ref =  1, pass
+# carry in = 0, in1 = 0, in2 = 2, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 0, in2 = 3, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 0, in2 = 4, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 0, in2 = 5, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 0, in2 = 6, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 0, in2 = 7, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 1, in2 = 0, sum =  1, sum_ref =  1, pass
+# carry in = 0, in1 = 1, in2 = 1, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 1, in2 = 2, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 1, in2 = 3, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 1, in2 = 4, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 1, in2 = 5, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 1, in2 = 6, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 1, in2 = 7, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 2, in2 = 0, sum =  2, sum_ref =  2, pass
+# carry in = 0, in1 = 2, in2 = 1, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 2, in2 = 2, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 2, in2 = 3, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 2, in2 = 4, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 2, in2 = 5, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 2, in2 = 6, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 2, in2 = 7, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 3, in2 = 0, sum =  3, sum_ref =  3, pass
+# carry in = 0, in1 = 3, in2 = 1, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 3, in2 = 2, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 3, in2 = 3, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 3, in2 = 4, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 3, in2 = 5, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 3, in2 = 6, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 3, in2 = 7, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 4, in2 = 0, sum =  4, sum_ref =  4, pass
+# carry in = 0, in1 = 4, in2 = 1, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 4, in2 = 2, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 4, in2 = 3, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 4, in2 = 4, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 4, in2 = 5, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 4, in2 = 6, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 4, in2 = 7, sum = 12, sum_ref = 11, fail
+# carry in = 0, in1 = 5, in2 = 0, sum =  5, sum_ref =  5, pass
+# carry in = 0, in1 = 5, in2 = 1, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 5, in2 = 2, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 5, in2 = 3, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 5, in2 = 4, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 5, in2 = 5, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 5, in2 = 6, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 5, in2 = 7, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 6, in2 = 0, sum =  6, sum_ref =  6, pass
+# carry in = 0, in1 = 6, in2 = 1, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 6, in2 = 2, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 6, in2 = 3, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 6, in2 = 4, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 6, in2 = 5, sum = 11, sum_ref = 11, pass
+# carry in = 0, in1 = 6, in2 = 6, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 6, in2 = 7, sum = 13, sum_ref = 13, pass
+# carry in = 0, in1 = 7, in2 = 0, sum =  7, sum_ref =  7, pass
+# carry in = 0, in1 = 7, in2 = 1, sum =  8, sum_ref =  8, pass
+# carry in = 0, in1 = 7, in2 = 2, sum =  9, sum_ref =  9, pass
+# carry in = 0, in1 = 7, in2 = 3, sum = 10, sum_ref = 10, pass
+# carry in = 0, in1 = 7, in2 = 4, sum = 12, sum_ref = 11, fail
+# carry in = 0, in1 = 7, in2 = 5, sum = 12, sum_ref = 12, pass
+# carry in = 0, in1 = 7, in2 = 6, sum = 13, sum_ref = 13, pass
+# carry in = 0, in1 = 7, in2 = 7, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 0, in2 = 0, sum =  1, sum_ref =  1, pass
+# carry in = 1, in1 = 0, in2 = 1, sum =  2, sum_ref =  2, pass
+# carry in = 1, in1 = 0, in2 = 2, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 0, in2 = 3, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 0, in2 = 4, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 0, in2 = 5, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 0, in2 = 6, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 0, in2 = 7, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 1, in2 = 0, sum =  2, sum_ref =  2, pass
+# carry in = 1, in1 = 1, in2 = 1, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 1, in2 = 2, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 1, in2 = 3, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 1, in2 = 4, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 1, in2 = 5, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 1, in2 = 6, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 1, in2 = 7, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 2, in2 = 0, sum =  3, sum_ref =  3, pass
+# carry in = 1, in1 = 2, in2 = 1, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 2, in2 = 2, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 2, in2 = 3, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 2, in2 = 4, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 2, in2 = 5, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 2, in2 = 6, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 2, in2 = 7, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 3, in2 = 0, sum =  4, sum_ref =  4, pass
+# carry in = 1, in1 = 3, in2 = 1, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 3, in2 = 2, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 3, in2 = 3, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 3, in2 = 4, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 3, in2 = 5, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 3, in2 = 6, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 3, in2 = 7, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 4, in2 = 0, sum =  5, sum_ref =  5, pass
+# carry in = 1, in1 = 4, in2 = 1, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 4, in2 = 2, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 4, in2 = 3, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 4, in2 = 4, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 4, in2 = 5, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 4, in2 = 6, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 4, in2 = 7, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 5, in2 = 0, sum =  6, sum_ref =  6, pass
+# carry in = 1, in1 = 5, in2 = 1, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 5, in2 = 2, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 5, in2 = 3, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 5, in2 = 4, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 5, in2 = 5, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 5, in2 = 6, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 5, in2 = 7, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 6, in2 = 0, sum =  7, sum_ref =  7, pass
+# carry in = 1, in1 = 6, in2 = 1, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 6, in2 = 2, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 6, in2 = 3, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 6, in2 = 4, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 6, in2 = 5, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 6, in2 = 6, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 6, in2 = 7, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 7, in2 = 0, sum =  8, sum_ref =  8, pass
+# carry in = 1, in1 = 7, in2 = 1, sum =  9, sum_ref =  9, pass
+# carry in = 1, in1 = 7, in2 = 2, sum = 10, sum_ref = 10, pass
+# carry in = 1, in1 = 7, in2 = 3, sum = 11, sum_ref = 11, pass
+# carry in = 1, in1 = 7, in2 = 4, sum = 12, sum_ref = 12, pass
+# carry in = 1, in1 = 7, in2 = 5, sum = 13, sum_ref = 13, pass
+# carry in = 1, in1 = 7, in2 = 6, sum = 14, sum_ref = 14, pass
+# carry in = 1, in1 = 7, in2 = 7, sum = 15, sum_ref = 15, pass
